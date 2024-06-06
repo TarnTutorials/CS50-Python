@@ -1,4 +1,4 @@
-# CS50P - Problem set 2 - 2022 course
+# CS50P - Problem set 3 - 2022 course
 # Tarn Montgomery 2024/06/06
 # Converts fractions into percentages
 
