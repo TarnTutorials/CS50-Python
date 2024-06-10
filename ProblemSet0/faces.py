@@ -11,4 +11,5 @@ def convert(inputString):
     inputString = inputString.replace(":(", "🙁")
     return inputString
 
-main()
+if __name__ == "__main__" :
+    main()

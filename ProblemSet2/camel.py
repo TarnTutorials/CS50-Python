@@ -16,4 +16,5 @@ def convertCase(camelCase):
             result += c
     return result
 
-main()
+if __name__ == "__main__" :
+    main()

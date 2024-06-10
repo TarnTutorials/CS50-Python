@@ -16,4 +16,5 @@ def abbreviate_string(user_input):
             new_string += c
     return new_string
             
-main()
+if __name__ == "__main__" :
+    main()

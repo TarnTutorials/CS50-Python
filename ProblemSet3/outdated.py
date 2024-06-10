@@ -67,7 +67,8 @@ def print_date(date_list):
     year = date_list[2]
     print(f"{year:04}-{month:02}-{day:02}")
 
-main()
+if __name__ == "__main__" :
+    main()
 
 
 

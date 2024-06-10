@@ -26,4 +26,5 @@ def calculateAnswer(mathInput):
         case _:
             return "Invalid input, please use x operator z. 1 + 1"
 
-main()
+if __name__ == "__main__" :
+    main()

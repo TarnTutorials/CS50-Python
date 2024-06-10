@@ -11,4 +11,5 @@ def convertToEnergy(mass):
     energy = mass*(pow(c, 2))
     return energy
 
-main()
+if __name__ == "__main__" :
+    main()

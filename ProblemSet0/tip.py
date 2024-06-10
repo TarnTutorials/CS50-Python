@@ -22,4 +22,5 @@ def percentToFloat(percent):
     percent = percent/100
     return percent
 
-main()
+if __name__ == "__main__" :
+    main()

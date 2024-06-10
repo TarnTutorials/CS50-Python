@@ -18,4 +18,5 @@ def insert_coins(amount_due):
             return
     insert_coins(amount_due)
 
-main()
+if __name__ == "__main__" :
+    main()

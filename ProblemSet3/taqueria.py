@@ -33,6 +33,7 @@ def add_item():
         except KeyboardInterrupt:
             print("")
             break
-        
-main()
+
+if __name__ == "__main__" :
+    main()
     

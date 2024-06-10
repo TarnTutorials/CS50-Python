@@ -36,4 +36,5 @@ def convert(timeInput):
     time = hours + minutes
     return time
 
-main()
+if __name__ == "__main__" :
+    main()

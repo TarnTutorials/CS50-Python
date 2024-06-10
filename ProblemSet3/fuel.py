@@ -36,4 +36,5 @@ def get_fraction(prompt):
         except ValueError:
             pass
 
-main()
+if __name__ == "__main__" :
+    main()

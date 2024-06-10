@@ -32,4 +32,5 @@ def checkType(fileName):
         case _:
             return "application/octet-stream"
 
-main()
+if __name__ == "__main__" :
+    main()

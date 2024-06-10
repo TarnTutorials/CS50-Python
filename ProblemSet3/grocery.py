@@ -28,4 +28,5 @@ def print_groceries():
         value = groceries[i]
         print(f"{value} {i}")
 
-main()
+if __name__ == "__main__" :
+    main()

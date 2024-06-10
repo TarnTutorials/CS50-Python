@@ -37,4 +37,5 @@ def check_fruit(fruit):
     if fruit in fruits:
         print(f"Calories: {fruits[fruit]}")
     
-main()
+if __name__ == "__main__" :
+    main()
