@@ -12,6 +12,7 @@ def test_format():
     assert validate("cat.dog.1.100") == False
     assert validate("1.1.10000.10.50") == False
     assert validate("1.1,2,1") == False
+    assert validate("1.643.2.1") == False
     
 def test_values():
     assert validate("0.0.0.0") == True
